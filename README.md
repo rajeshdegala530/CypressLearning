@@ -6,3 +6,4 @@
 5. git push -u origin master to push the local to remote
 6. Run npm install cypress in the CypressTutorial folder. This will install node_modules and package-lock.json file
 7. Add node_modules to .gitignore
+8. npx cypress open to run the cypress window
