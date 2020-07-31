@@ -13,5 +13,8 @@
     "Mocha"
   ],
   "author": "Rajesh Degala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.11.0"
+  }
 }
